@@ -19,6 +19,10 @@ Documentation
 * Uses the latest Mpress version 2.19
 * ALL options included for advanced usage
 
+#### Screenshot ####
+
+![](https://raw.githubusercontent.com/wiki/GerardBalaoro/mpressgui/Screenshot.png)
+
 #### Mpress 2.19 Features ####
 * Advanced compression of .NET executable files (anyCPU,x86,AMD64,IA64 EXE)
 * Support for MS Framework 1.1/2.0/3.0/4.0
