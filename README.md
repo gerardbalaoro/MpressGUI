@@ -6,6 +6,10 @@ Mpress Graphic User Interface
 Downloads
 ---------------------------------------------------
 * **[Release 1.0](http://mpressgui.codeplex.com/)** (hosted at Codeplex)
+    
+    ![license](https://img.shields.io/badge/windows-7%2F8%2F10-blue.svg)
+    ![license](https://img.shields.io/badge/release-stable-brightgreen.svg)
+    ![license](https://img.shields.io/badge/license-MIT-red.svg)
 
 Documentation
 ---------------------------------------------------
@@ -35,17 +39,17 @@ Documentation
 
 Format            | Description
 ------------------|------------------------------------
-* AMD64/PE32+/EXE | x64 (AMD64) Executables
-* AMD64/PE32+/DLL | x64 (AMD64) Libraries
-* x86/PE32/EXE    | x86 Executables
-* x86/PE32/DLL    | x86 Libraries
-* anyCPU/.NET/EXE | any CPU .NET (except. CF) Applications
-* x86/.NET/EXE    | x86 .NET Applications
-* AMD64/.NET/EXE  | AMD64 .NET Applications
-* IA64/.NET/EXE   | IA64 .NET Applications
-* x86/MACH-O/APP  | x86 darwin-mac os x Applications
-* x64/MACH-O/APP  | x64 darwin-mac os x Applications
-* UB/MACH-O/APP   | universal binary darwin-mac os x Applications
+AMD64/PE32+/EXE   | x64 (AMD64) Executables
+AMD64/PE32+/DLL   | x64 (AMD64) Libraries
+x86/PE32/EXE      | x86 Executables
+x86/PE32/DLL      | x86 Libraries
+anyCPU/.NET/EXE   | any CPU .NET (except. CF) Applications
+x86/.NET/EXE      | x86 .NET Applications
+AMD64/.NET/EXE    | AMD64 .NET Applications
+IA64/.NET/EXE     | IA64 .NET Applications
+x86/MACH-O/APP    | x86 darwin-mac os x Applications
+x64/MACH-O/APP    | x64 darwin-mac os x Applications
+UB/MACH-O/APP     | universal binary darwin-mac os x Applications
 
 
 Developer
