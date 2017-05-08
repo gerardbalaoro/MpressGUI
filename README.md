@@ -5,7 +5,7 @@ Mpress Graphic User Interface
 
 Downloads
 ---------------------------------------------------
-* **[Release 1.0](http://mpressgui.codeplex.com/)** (hosted at Codeplex)
+* **[Latest Release](https://github.com/GerardBalaoro/MpressGUI/releases/latest)**
     
     ![license](https://img.shields.io/badge/windows-7%2F8%2F10-blue.svg)
     ![license](https://img.shields.io/badge/release-stable-brightgreen.svg)
