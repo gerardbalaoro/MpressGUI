@@ -261,7 +261,7 @@ Partial Class MainFrm
         Me.lowerx.Size = New System.Drawing.Size(162, 30)
         Me.lowerx.Style = MetroFramework.MetroColorStyle.Green
         Me.lowerx.TabIndex = 32
-        Me.lowerx.Text = "Don't manage exemptions" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "(64 bit PE32+)"
+        Me.lowerx.Text = "Don't manage exceptions" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "(64 bit PE32+)"
         Me.lowerx.UseVisualStyleBackColor = False
         '
         'm
